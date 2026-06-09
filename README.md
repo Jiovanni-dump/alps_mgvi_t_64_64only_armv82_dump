@@ -1,0 +1,14 @@
+# sys_mssi_64_64only_cn_armv82-user 16 BP2A.250605.031.A3 1780110426 release-keys
+- manufacturer: alps
+- platform: common
+- codename: mgvi_t_64_64only_armv82
+- flavor: sys_mssi_64_64only_cn_armv82-user
+- release: 16
+- id: BP2A.250605.031.A3
+- incremental: 1780110426
+- tags: release-keys
+- fingerprint: alps/hal_mgvi_t_64_64only_armv82/mgvi_t_64_64only_armv82:16/BP2A.250605.031.A3/1780110426:user/release-keys
+- is_ab: true
+- brand: alps
+- branch: sys_mssi_64_64only_cn_armv82-user-16-BP2A.250605.031.A3-1780110426-release-keys
+- repo: alps_mgvi_t_64_64only_armv82_dump
